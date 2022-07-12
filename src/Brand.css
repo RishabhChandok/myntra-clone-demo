@@ -1,0 +1,13 @@
+.Brand{
+    display: flex;
+    flex-wrap: wrap;
+    
+
+}
+.Brand img{
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+.Heading{
+    text-align: left;
+}

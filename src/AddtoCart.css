@@ -1,0 +1,15 @@
+.AddtoContainer{
+    display: flex;
+    background-color: bisque;
+    min-height: 100vh;
+    max-height: 100%;
+}
+.TotalCount{
+    padding: 40px;
+    position: fixed;
+    right: 70px;
+    top:70px;
+    background-color: bisque;
+    text-align: center;
+    
+}

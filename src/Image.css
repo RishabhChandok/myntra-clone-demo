@@ -1,0 +1,8 @@
+.ImageSlideContainer{
+    display: flex;
+    overflow-y: none;
+    overflow-x: scroll;
+}
+::-webkit-scrollbar {
+    display: none;
+}
